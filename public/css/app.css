@@ -1,0 +1,47 @@
+.top-bar {
+    margin-bottom: 15px;
+}
+
+. top-bar strong {
+    color: black;
+}
+
+.mine {
+    background-color: #FABADA;
+}
+
+.card .chusqer-content {
+    margin: 15px;
+}
+
+.card .chusqer-hashtags {
+    margin: 0 15px;
+}
+
+p.validation-error {
+    font-size: 0.8em;
+    color: red;
+}
+
+div.success {
+    margin: 15px 0;
+}
+
+.main-area {
+    padding-top: 70px;
+}
+
+.chusq {
+    padding: 10px;
+}
+
+.gallery > .gallery-item {
+    width: calc(33.33333% - 1.25rem);
+    margin-right: 0.625rem;
+    margin-left: 0.625rem;
+}
+
+form#chusqer-actions-buttons {
+    display: inline;
+    float: right;
+}
